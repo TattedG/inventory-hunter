@@ -1,0 +1,15 @@
+---
+refresh_interval: 2 # seconds
+max_price: 650 # dollars
+urls:
+  - https://www.bestbuy.com/site/gigabyte-nvidia-geforce-rtx-3060-ti-eagle-oc-8g-gddr6-pci-express-4-0-graphics-card-black/6442485.p?skuId=6442485
+  - https://www.bestbuy.com/site/gigabyte-nvidia-geforce-rtx-3060-ti-gaming-oc-8g-gddr6-pci-express-4-0-graphics-card-black/6442484.p?skuId=6442484
+  - https://www.bestbuy.com/site/msi-geforce-rtx-3060-ti-ventus-2x-oc-bv-8gb-gddr6-pci-express-4-0-graphics-card-black-black/6441172.p?skuId=6441172
+  - https://www.bestbuy.com/site/nvidia-geforce-rtx-3060-ti-8gb-gddr6-pci-express-4-0-graphics-card-steel-and-black/6439402.p?skuId=6439402
+  - https://www.bhphotovideo.com/c/product/1606947-REG/gigabyte_gv_n306tgaming_oc_8gd_rtx_3060_ti_gaming.html
+  - https://www.bhphotovideo.com/c/product/1606949-REG/gigabyte_gv_n306teagle_8gd_rtx_3060_ti_eagle.html
+  - https://www.bhphotovideo.com/c/product/1609756-REG/asus_ko_rtx3060ti_o8g_gaming_ko_geforce_rtx_3060.html
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-8gd/p/N82E16814932379?Item=N82E16814932379
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-rog-strix-rtx3060ti-o8g-gaming/p/N82E16814126470?Description=3060%20ti&cm_re=3060_ti-_-14-126-470-_-Product
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgamingoc-pro-8gd/p/N82E16814932376?Description=3060%20ti&cm_re=3060_ti-_-14-932-376-_-Product
+...
